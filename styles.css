@@ -3,6 +3,7 @@ body {
   background-image: url('images/main-bg-img.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
+  height: 100%;
   font-family: arial;
   font-size: 12pt;
 }
